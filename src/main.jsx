@@ -53,7 +53,7 @@ const projects = [
     architecture: 'React.js frontend with Node.js APIs, MongoDB persistence, Firebase services and Gemini integration.',
     challenges: 'Balancing offline-first UX with synchronization and automated evaluation.',
     results: 'Adopted by 150+ users, increased engagement by 40%, and saved instructors 10+ hours per month.',
-    tech: ['React.js', 'Node.js', 'MongoDB', 'Firebase', 'JavaScript', 'Gemini'],
+    tech: ['React.js', 'Node.js', 'MongoDB', 'Firebase', 'JavaScript', 'Gemini','Spring Boot'],
     github: 'https://github.com/santtun1', live: '#'
   }
 ]
